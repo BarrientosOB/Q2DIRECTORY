@@ -1,0 +1,13 @@
+body {
+	background-color: gray;
+	color: black;
+	text-align: center;
+}
+
+.container {
+	background-color: white;
+}
+
+img {
+	width: 100px;
+}
